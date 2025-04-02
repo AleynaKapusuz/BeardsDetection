@@ -21,4 +21,4 @@ You can download the model from:
 
 and video : 
 
-https://github.com/AleynaKapusuz/BeardsDetection/blob/main/inference/output.mp4
+https://github.com/user-attachments/assets/af290f88-b736-4cb7-a681-3e134af8ae11
