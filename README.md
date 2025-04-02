@@ -21,4 +21,4 @@ You can download the model from:
 
 and video : 
 
-https://github.com/user-attachments/assets/e43a7e64-d519-48fb-813c-b53ab7a447d1
+[https://github.com/user-attachments/assets/f749b386-b871-45df-8873-078bc51dd9ae](https://github.com/user-attachments/assets/411de064-957f-47db-aeb8-4280554fc871)
