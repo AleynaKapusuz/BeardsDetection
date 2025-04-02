@@ -18,3 +18,8 @@ You can download the model from:
 ## Beard detection code output: 
 
 ![Image](https://github.com/user-attachments/assets/612a1274-e43d-4841-99f8-9be154b0c56a)
+
+and video : 
+
+
+https://github.com/user-attachments/assets/68a8ccaf-c10f-479f-accb-8386c6dc2887
